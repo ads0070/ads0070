@@ -1,4 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=An%20Dae%20Hyeon&animation=fadeIn&fontSize=90)
+
 <h1 align=center>Welcome :wave:</h1>
+<h3 align=center>Student Developer, Department of Computer Software Engineering</h3>
 
 ## :smile: Introduce
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ads0070&label=Profile%20views&color=0e75b6&style=flat" alt="ads0070" /> 
@@ -6,6 +9,8 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ads0070&show_icons=true&locale=en" alt="ads0070"/</p>
   
+<p>개발자의 꿈을 이루기 위해 학업에 열중하고 있는 학생 개발자입니다!</p>
+
 ## :pencil: Tech Stack
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ads0070&show_icons=true&locale=en&layout=compact" alt="ads0070" /></p>
