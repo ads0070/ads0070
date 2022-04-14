@@ -1,10 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=An%20Dae%20Hyeon&animation=fadeIn&fontSize=90)
 
 <h1 align=center>Welcome :wave:</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ads0070&label=Profile%20views&color=0e75b6&style=flat" alt="ads0070" /> 
 <h3 align=center>Student Developer, Department of Computer Software Engineering</h3>
 
 ## :smile: Introduce
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ads0070&label=Profile%20views&color=0e75b6&style=flat" alt="ads0070" /> 
+<div align="center">
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ads0070)](https://solved.ac/ads0070/)
+  <br>
+  
+</div>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ads0070&show_icons=true&locale=en" alt="ads0070"/</p>
@@ -25,30 +31,17 @@
   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white">
   <br>
   
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
-  <br>
-  
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
   <br>
   
   <img src="https://img.shields.io/badge/ros-22314E?style=flat&logo=ros&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat&logo=spring boot&logoColor=white">
   <img src="https://img.shields.io/badge/android studio-3DDC84?style=flat&logo=android studio&logoColor=white">
-  <br>
-
-  <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white">
   <br>
   
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white">
-  <br>
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ads0070)](https://solved.ac/ads0070/)
   <br>
   
 </div>
@@ -71,11 +64,9 @@
 |         Date         |                              Content                              |                    Organization                    |
 | :----------------: | :----------------------------------------------------------: | :------------------------------------------------: |
 |  2020. 9. 20 ~<br>2020. 11. 23  |            [호텔 관리 시스템](https://github.com/ads0070/hotel-management-program) - 2분반 8조             |                 Dong-eui University                 |
-|  2021. 2. 16 ~<br>2021. 2. 23  |     [좋은 첫인상을 위한 표정 코치 AI](https://github.com/ads0070/Facial-expression-coach-AI) - 팀 IM      |               인공지능그랜드ICT연구센터                |
 |  2021. 4. 24 ~<br>2021. 6. 5  |     데일리 스케줄러 [[백엔드]](https://github.com/ads0070/daily-scheduler-backend), [[프론트엔드]](https://github.com/ads0070/daily-scheduler-frontend) - 1분반 2조     |               Dong-eui University                |
 |  2021. 10. 6 ~<br>2021. 12. 4  |     [ROS 기반의 터틀봇 자율주행](https://github.com/ads0070/ROS-based-Turtlebot-Autonomous-Driving) - 합반 2조     |               Dong-eui University                |
 |  2021. 10. 7 ~<br>2021. 12. 9  |     [음식점 내 QR 간편 주문 및 결제 앱 (찍고먹자)](https://github.com/ads0070/QR-payment-application-and-server) - 팀 초코파이썬칩     |               Dong-eui University                |
-|  2021. 11. 13 ~<br>2021. 12. 12  |     [코로나 환자 관리 프로그램](https://github.com/ads0070/Corona-Patient-Management-Program) - 3분반 6조     |               Dong-eui University                |
 
 
 <h3 align="left">Certificate:</h3>
