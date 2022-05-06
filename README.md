@@ -76,7 +76,7 @@
 | :----------------: | :----------------------------------------------------------: | :------------------------------------------------: |
 |  2018. 1. 19  |     Microsoft Office Specialist 2010 Master      |               Microsoft                |
 |  2018. 10. 25  |            ATC캐드마스터 2급             |                 한국ATC센터                 |
-|  2021. 11. 05  |     ISTQB CTFL     |               International Software Testing Qualifications Board                |
+|  2021. 11. 05  |     ISTQB CTFL     |               KSTQB                |
 |  2022. 04. 01  |     리눅스마스터 2급     |               KAIT 한국정보통신진흥협회                |
 
 
