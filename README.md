@@ -5,18 +5,19 @@
 <h3 align=center>Student Developer, Department of Computer Software Engineering</h3>
 
 ## :smile: Introduce
+
+<p>개발자의 꿈을 이루기 위해 학업에 열중하고 있는 학생 개발자입니다!</p>
+
 <div align="center">
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ads0070)](https://solved.ac/ads0070/)
-  <br>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ads0070)](https://solved.ac/ads0070/)
+
   
 </div>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ads0070&show_icons=true&locale=en" alt="ads0070"/</p>
   
-<p>개발자의 꿈을 이루기 위해 학업에 열중하고 있는 학생 개발자입니다!</p>
-
 ## :pencil: Tech Stack
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ads0070&show_icons=true&locale=en&layout=compact" alt="ads0070" /></p>
