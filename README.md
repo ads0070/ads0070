@@ -64,16 +64,6 @@ gch05610@gmail.com
 
 ## :star: Experience
 
-<h3 align="left">Awards:</h3>
-
-
-|         Date         |                              Competition                              |         Award name         |                    Organization                    |
-| :----------------: | :----------------------------------------------------------: | :----------------: | :------------------------------------------------: |
-|  2021. 8. 20  |            2021년도 1학기 학업성적             |  최우등상  |                 Dong-eui University                 |
-|  2021. 11. 19  |     Crowd Testing 경진대회      |  우수상  |               Dong-eui University                |
-|  2021. 11.26  |     추계학술대회 - 인공지능 캡스톤디자인 경진대회<br>"딥러닝을 통한 라인오버 방식의 인원 계수 방법"     |  최우수상  |               한국멀티미디어학회                |
-|  2022. 2. 21  |    2021년 동계계절수업 융복합 캡스톤디자인 경진대회<br>"Lidar센서를 이용한 메타버스 건물 지도 시스템" - 팀 도르마무    |  대상  |                     Dong-eui University                     |
-
 <h3 align="left">Project:</h3>
 
 
@@ -83,6 +73,16 @@ gch05610@gmail.com
 |  2021. 4. 24 ~<br>2021. 6. 5  |     데일리 스케줄러 [[백엔드]](https://github.com/ads0070/daily-scheduler-backend), [[프론트엔드]](https://github.com/ads0070/daily-scheduler-frontend) - 1분반 2조     |               Dong-eui University                |
 |  2021. 10. 6 ~<br>2021. 12. 4  |     [ROS 기반의 터틀봇 자율주행](https://github.com/ads0070/ROS-based-Turtlebot-Autonomous-Driving) - 합반 2조     |               Dong-eui University                |
 |  2021. 10. 7 ~<br>2021. 12. 9  |     [음식점 내 QR 간편 주문 및 결제 앱 (찍고먹자)](https://github.com/ads0070/QR-payment-application-and-server) - 팀 초코파이썬칩     |               Dong-eui University                |
+
+<h3 align="left">Awards:</h3>
+
+
+|         Date         |                              Competition                              |         Award name         |                    Organization                    |
+| :----------------: | :----------------------------------------------------------: | :----------------: | :------------------------------------------------: |
+|  2021. 8. 20  |            2021년도 1학기 학업성적             |  최우등상  |                 Dong-eui University                 |
+|  2021. 11. 19  |     Crowd Testing 경진대회      |  우수상  |               Dong-eui University                |
+|  2021. 11.26  |     추계학술대회 - 인공지능 캡스톤디자인 경진대회<br>"딥러닝을 통한 라인오버 방식의 인원 계수 방법"     |  최우수상  |               한국멀티미디어학회                |
+|  2022. 2. 21  |    2021년 동계계절수업 융복합 캡스톤디자인 경진대회<br>"Lidar센서를 이용한 메타버스 건물 지도 시스템" - 팀 도르마무    |  대상  |                     Dong-eui University                     |
 
 
 <h3 align="left">Certificate:</h3>
