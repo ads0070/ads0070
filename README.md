@@ -73,6 +73,7 @@ gch05610@gmail.com
 |  2021. 4. 24 ~<br>2021. 6. 5  |     데일리 스케줄러 [[백엔드]](https://github.com/ads0070/daily-scheduler-backend), [[프론트엔드]](https://github.com/ads0070/daily-scheduler-frontend) - 1분반 2조     |               Dong-eui University                |
 |  2021. 10. 6 ~<br>2021. 12. 4  |     [ROS 기반의 터틀봇 자율주행](https://github.com/ads0070/ROS-based-Turtlebot-Autonomous-Driving) - 합반 2조     |               Dong-eui University                |
 |  2021. 10. 7 ~<br>2021. 12. 9  |     [음식점 내 QR 간편 주문 및 결제 앱 (찍고먹자)](https://github.com/ads0070/QR-payment-application-and-server) - 팀 초코파이썬칩     |               Dong-eui University                |
+|  2022. 04. 22 ~<br>2022. 05. 17  |     [야놀자 서비스]()     |               Rising Camp with 컴공선배                |
 
 <h3 align="left">Awards:</h3>
 
@@ -103,3 +104,4 @@ gch05610@gmail.com
 | :----------------: | :----------------------------------------------------------: | :------------------------------------------------: |
 |  2021. 1. 25 ~<br>2021. 2. 23  |            파이썬 기반 인공지능 (SLP) 기본교육 (160시간)            |                 인공지능그랜드ICT연구센터                 |
 |  2021. 11. 3 ~<br>2021. 11. 5  |     SW Testing Foundation 교육 (21시간)     |               부산정보산업진흥원                |
+|  2022. 04. 22 ~<br>2022. 05. 17  |     Server 클래스    |               Rising Camp with 컴공선배                |
