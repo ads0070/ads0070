@@ -8,19 +8,28 @@
 
 <p>백엔드 개발자의 꿈을 이루기 위해 차근차근 계단을 오르고 있는 학생 개발자입니다!</p>
 
-<div align="center">
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ads0070)](https://solved.ac/ads0070/)
+📧 **Email**
 
-  
-</div>
+gch05610@gmail.com
 
+📋 **Portfolio**
+
+[추가 예정]()
+
+📗 **Blog**
+
+[추가 예정]()
+
+👨🏻‍🎓 **학력**
+
+동의대학교 컴퓨터소프트웨어공학과</br>
+2017.03. ~ 4학년 재학 중
+
+<h4 align="center">Github Stats</h4>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ads0070&show_icons=true&locale=en" alt="ads0070"/</p>
   
 ## :pencil: Tech Stack
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ads0070&show_icons=true&locale=en&layout=compact" alt="ads0070" /></p>
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -45,6 +54,12 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
   <br>
   
+</div>
+<br/>
+<div align="center">
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ads0070)](https://solved.ac/ads0070/)&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ads0070&show_icons=true&locale=en&layout=compact" alt="ads0070" />
+
 </div>
 
 ## :star: Experience
