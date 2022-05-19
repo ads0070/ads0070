@@ -113,5 +113,4 @@ gch05610@gmail.com
 |  2021. 10. 7 ~<br>2021. 12. 9  |     [음식점 내 QR 간편 주문 및 결제 앱 (찍고먹자)](https://github.com/ads0070/QR-payment-application-and-server) - 팀 초코파이썬칩     |               Dong-eui University                |
 |  2021. 10. 6 ~<br>2021. 12. 4  |     [ROS 기반의 터틀봇 자율주행](https://github.com/ads0070/ROS-based-Turtlebot-Autonomous-Driving) - 합반 2조     |               Dong-eui University                |
 |  2021. 4. 24 ~<br>2021. 6. 5  |     데일리 스케줄러 [[백엔드]](https://github.com/ads0070/daily-scheduler-backend), [[프론트엔드]](https://github.com/ads0070/daily-scheduler-frontend) - 1분반 2조     |               Dong-eui University                |
-|  2020. 9. 20 ~<br>2020. 11. 23  |            [호텔 관리 시스템](https://github.com/ads0070/hotel-management-program) - 2분반 8조             |                 Dong-eui University                 |
 
