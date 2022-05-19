@@ -114,36 +114,3 @@ gch05610@gmail.com
 |  2021. 4. 24 ~<br>2021. 6. 5  |     데일리 스케줄러 [[백엔드]](https://github.com/ads0070/daily-scheduler-backend), [[프론트엔드]](https://github.com/ads0070/daily-scheduler-frontend) - 1분반 2조     |               Dong-eui University                |
 |  2020. 9. 20 ~<br>2020. 11. 23  |            [호텔 관리 시스템](https://github.com/ads0070/hotel-management-program) - 2분반 8조             |                 Dong-eui University                 |
 
-<h3 align="left">Awards:</h3>
-
-
-|         Date         |                              Competition                              |         Award name         |                    Organization                    |
-| :----------------: | :----------------------------------------------------------: | :----------------: | :------------------------------------------------: |
-|  2022. 2. 21  |    2021년 동계계절수업 융복합 캡스톤디자인 경진대회<br>"Lidar센서를 이용한 메타버스 건물 지도 시스템" - 팀 도르마무    |  대상  |                     Dong-eui University                     |
-|  2021. 11.26  |     추계학술대회 - 인공지능 캡스톤디자인 경진대회<br>"딥러닝을 통한 라인오버 방식의 인원 계수 방법"     |  최우수상  |               한국멀티미디어학회                |
-|  2021. 11. 19  |     Crowd Testing 경진대회      |  우수상  |               Dong-eui University                |
-|  2021. 8. 20  |            2021년도 1학기 학업성적             |  최우등상  |                 Dong-eui University                 |
-
-
-
-<h3 align="left">Certificate:</h3>
-
-
-|         Date         |                              Certificate                              |                    Organization                    |
-| :----------------: | :----------------------------------------------------------: | :------------------------------------------------: |
-|  2022. 04. 01  |     리눅스마스터 2급     |               KAIT 한국정보통신진흥협회                |
-|  2021. 11. 05  |     ISTQB CTFL     |               KSTQB                |
-|  2018. 10. 25  |            ATC캐드마스터 2급             |                 한국ATC센터                 |
-|  2018. 1. 19  |     Microsoft Office Specialist 2010 Master      |               Microsoft                |
-
-
-
-
-<h3 align="left">Education:</h3>
-
-
-|         Date         |                              Education                              |                    Organization                    |
-| :----------------: | :----------------------------------------------------------: | :------------------------------------------------: |
-|  2022. 04. 12 ~<br>2022. 05. 17  |    Rising Camp 5기 Server 클래스    |               Rising Camp with 컴공선배                |
-|  2021. 11. 3 ~<br>2021. 11. 5  |     SW Testing Foundation 교육 (21시간)     |               부산정보산업진흥원                |
-|  2021. 1. 25 ~<br>2021. 2. 23  |            파이썬 기반 인공지능 (SLP) 기본교육 (160시간)            |                 인공지능그랜드ICT연구센터                 |
