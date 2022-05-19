@@ -31,30 +31,69 @@ gch05610@gmail.com
   
 ## :pencil: Tech Stack
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages:</h3>
 
 <div align=center> 
 
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white">
   <br>
+</div>
+  
+<h3 align="center">Techs(Framework):</h3>
+
+<div align=center> 
   
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
   <br>
   
-  <img src="https://img.shields.io/badge/ros-22314E?style=flat&logo=ros&logoColor=white">
   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat&logo=spring boot&logoColor=white">
+  <img src="https://img.shields.io/badge/ros-22314E?style=flat&logo=ros&logoColor=white">
+  <img src="https://img.shields.io/badge/android-3DDC84?style=flat&logo=android&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/amazon aws-232F3E?style=flat&logo=amazonaws&logoColor=white"> 
+  <img src="https://img.shields.io/badge/naver cloud platform-03C75A?style=flat&logo=naver&logoColor=white"> 
+  <br>
+  
+  <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white"> 
+  <img src="https://img.shields.io/badge/arduino-00979D?style=flat&logo=arduino&logoColor=white"> 
+  
+</div>  
+
+<h3 align="center">Tools:</h3>
+
+<div align=center> 
+
   <img src="https://img.shields.io/badge/android studio-3DDC84?style=flat&logo=android studio&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/visual studio-5C2D91?style=flat&logo=visual studio&logoColor=white">
+  <img src="https://img.shields.io/badge/visual studio code-007ACC?style=flat&logo=visual studio code&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
   <br>
   
+  <img src="https://img.shields.io/badge/apache netbeans ide-1B6AC6?style=flat&logo=apache netbeans ide&logoColor=white">
+  <img src="https://img.shields.io/badge/intellij idea-000000?style=flat&logo=intellij idea&logoColor=white">
+  <img src="https://img.shields.io/badge/pycharm-000000?style=flat&logo=pycharm&logoColor=white">
+  <img src="https://img.shields.io/badge/datagrip-000000?style=flat&logo=datagrip&logoColor=white">
 </div>
+
+<h3 align="center">OS:</h3>
+
+<div align=center> 
+
+  <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/windows-0078D6?style=flat&logo=windows&logoColor=white"> 
+  <br>
+</div>
+
+<div align=center>
+  
+  <br>
+</div>
+
 <br/>
 <div align="center">
   
@@ -105,6 +144,6 @@ gch05610@gmail.com
 
 |         Date         |                              Education                              |                    Organization                    |
 | :----------------: | :----------------------------------------------------------: | :------------------------------------------------: |
-|  2022. 04. 12 ~<br>2022. 05. 17  |     Server 클래스    |               Rising Camp with 컴공선배                |
+|  2022. 04. 12 ~<br>2022. 05. 17  |    Rising Camp 5기 Server 클래스    |               Rising Camp with 컴공선배                |
 |  2021. 11. 3 ~<br>2021. 11. 5  |     SW Testing Foundation 교육 (21시간)     |               부산정보산업진흥원                |
 |  2021. 1. 25 ~<br>2021. 2. 23  |            파이썬 기반 인공지능 (SLP) 기본교육 (160시간)            |                 인공지능그랜드ICT연구센터                 |
