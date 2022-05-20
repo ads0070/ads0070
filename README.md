@@ -38,6 +38,7 @@ gch05610@gmail.com
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c%2B%2B&logoColor=white">
   <br>
 </div>
   
