@@ -52,14 +52,12 @@ gch05610@gmail.com
   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat&logo=spring boot&logoColor=white">
   <img src="https://img.shields.io/badge/ros-22314E?style=flat&logo=ros&logoColor=white">
   <img src="https://img.shields.io/badge/android-3DDC84?style=flat&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/arduino-00979D?style=flat&logo=arduino&logoColor=white"> 
   <br>
   
   <img src="https://img.shields.io/badge/amazon aws-232F3E?style=flat&logo=amazonaws&logoColor=white"> 
   <img src="https://img.shields.io/badge/naver cloud platform-03C75A?style=flat&logo=naver&logoColor=white"> 
   <br>
-  
-  <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white"> 
-  <img src="https://img.shields.io/badge/arduino-00979D?style=flat&logo=arduino&logoColor=white"> 
   
 </div>  
 
