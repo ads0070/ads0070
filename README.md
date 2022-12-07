@@ -42,75 +42,39 @@ gch05610@gmail.com
   <br>
 </div>
   
-<h3 align="center">Techs(Framework):</h3>
+<h3 align="center">Techs:</h3>
 
 <div align=center> 
   
-  <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white"> 
   <br>
   
   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=flat&logo=spring boot&logoColor=white">
-  <img src="https://img.shields.io/badge/ros-22314E?style=flat&logo=ros&logoColor=white">
-  <img src="https://img.shields.io/badge/android-3DDC84?style=flat&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/arduino-00979D?style=flat&logo=arduino&logoColor=white"> 
+  <img src="https://img.shields.io/badge/spring security-6DB33F?style=flat&logo=spring security&logoColor=white">
   <br>
   
-  <img src="https://img.shields.io/badge/amazon aws-232F3E?style=flat&logo=amazonaws&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white"> 
   <img src="https://img.shields.io/badge/naver cloud platform-03C75A?style=flat&logo=naver&logoColor=white"> 
   <br>
   
-</div>  
-
-<h3 align="center">Tools:</h3>
-
-<div align=center> 
-
-  <img src="https://img.shields.io/badge/android studio-3DDC84?style=flat&logo=android studio&logoColor=white">
-  <img src="https://img.shields.io/badge/visual studio-5C2D91?style=flat&logo=visual studio&logoColor=white">
-  <img src="https://img.shields.io/badge/visual studio code-007ACC?style=flat&logo=visual studio code&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"> 
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
   <br>
   
-  <img src="https://img.shields.io/badge/apache netbeans ide-1B6AC6?style=flat&logo=apache netbeans ide&logoColor=white">
-  <img src="https://img.shields.io/badge/intellij idea-000000?style=flat&logo=intellij idea&logoColor=white">
-  <img src="https://img.shields.io/badge/pycharm-000000?style=flat&logo=pycharm&logoColor=white">
-  <img src="https://img.shields.io/badge/datagrip-000000?style=flat&logo=datagrip&logoColor=white">
-</div>
-
-<h3 align="center">OS:</h3>
-
-<div align=center> 
-
-  <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/windows-0078D6?style=flat&logo=windows&logoColor=white"> 
+  <img src="https://img.shields.io/badge/android-3DDC84?style=flat&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/arduino-00979D?style=flat&logo=arduino&logoColor=white"> 
+  <img src="https://img.shields.io/badge/ros-22314E?style=flat&logo=ros&logoColor=white">
   <br>
-</div>
-
-<div align=center>
   
-  <br>
-</div>
+</div>  
 
 <br/>
 <div align="center">
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ads0070)](https://solved.ac/ads0070/)&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ads0070&show_icons=true&locale=en&layout=compact" alt="ads0070" />
-
-</div>
-
-## :star: Experience
-
-<h3 align="left">Project:</h3>
-
-
-|         Date         |                              Content                              |                    Organization                    |
-| :----------------: | :----------------------------------------------------------: | :------------------------------------------------: |
-|  2022. 03. 17 ~<br>2022. 06. 12  |     [책을 통한 동의대학교 멘토-멘티 플랫폼 (도르마북)](https://github.com/ads0070/dormabook-webRTC) - 도르마무v2     |               Dong-eui University                |
-|  2022. 04. 21 ~<br>2022. 05. 17  |     [야놀자 서비스](https://github.com/ads0070/Yanolja-clone-coding) - 토이 프로젝트     |               Rising Camp with 컴공선배                |
-|  2021. 11. 17 ~<br>2021. 12. 4  |     [코로나 환자 관리 프로그램](https://github.com/ads0070/Corona-Patient-Management-Program) - 3분반 6조     |               Dong-eui University                |
-|  2021. 10. 7 ~<br>2021. 12. 9  |     [음식점 내 QR 간편 주문 및 결제 앱 (찍어 먹자)](https://github.com/ads0070/QR-payment-application-and-server) - 팀 초코파이썬칩     |               Dong-eui University                |
-|  2021. 10. 6 ~<br>2021. 12. 4  |     [ROS 기반의 터틀봇 자율주행](https://github.com/ads0070/ROS-based-Turtlebot-Autonomous-Driving) - 합반 2조     |               Dong-eui University                |
-|  2021. 4. 24 ~<br>2021. 6. 5  |     데일리 스케줄러 [[백엔드]](https://github.com/ads0070/daily-scheduler-backend), [[프론트엔드]](https://github.com/ads0070/daily-scheduler-frontend) - 1분반 2조     |               Dong-eui University                |
-
